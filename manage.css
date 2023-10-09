@@ -288,8 +288,8 @@
           margin: 20px 0;
       }
 
-      aside {
-          margin: 30px 20px;
+      aside h3{ width: auto;
+          margin: 30px 5px;
       }
 
       aside p {
@@ -330,7 +330,9 @@
       }
 
       .inbox-submit {
-          width: 130%;
+          width: 200%;
+          margin-left: -50px;
       }
-
-  }
+     
+      
+ 
