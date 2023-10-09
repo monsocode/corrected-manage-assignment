@@ -253,8 +253,7 @@
 
       .header-nav {
           display: flex;
-          flex-direction: ;
-          margin: 0;
+          margin: 10px;
       }
 
       .nav-icons,
@@ -334,5 +333,3 @@
           margin-left: -50px;
       }
      
-      
- 
